@@ -1,4 +1,5 @@
-<img width="736" height="736" alt="🍙 Icon Gaara and Rock Lee  ⃘𓏸 ͏ ͏ ͏&#39; ͏ ͏͏ by 𝓐𝗌꯭tꫀׁׅܻr" src="https://github.com/user-attachments/assets/438ab127-b932-4ec2-88de-a264334d2a5c" />
+<img width="735" height="572" alt="@larugo23 on Twitter" src="https://github.com/user-attachments/assets/0ae06ed5-e933-4015-b19c-c7a70df8c808" />
+
 
 
 wip/lazy/bye/comebackin3yearstime
