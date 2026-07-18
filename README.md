@@ -1,4 +1,4 @@
-<img width="569" height="420" alt="gaaracropped" src="https://github.com/user-attachments/assets/6f54209a-e515-4033-b268-ce8f0373191a" />
+<img width="569" height="420" alt="gaaracropped" src="file:///C:/Users/Huong/Downloads/@larugo23%20on%20Twitter.jpg" />
 
 wip/lazy/bye/comebackin3yearstime
 (¬_¬愛")
