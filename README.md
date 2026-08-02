@@ -1,7 +1,8 @@
 <div align="center">
 
-${\color{#e0b577} >⩊<.ᐟ \space}$ ${\color{#e0b577}}$
-  
+${\color{#e0b577} >⩊<.ᐟ \space}$
+${\color{#e0b577} color \space looks \space weird \space on \space mobile}$
+
 <img width="768" height="558" alt="iwaoiframegithub" src="https://github.com/user-attachments/assets/c6e76c61-468b-4b51-835a-2b7ec0aeae64" />
 
 
