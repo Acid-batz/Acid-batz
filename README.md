@@ -1,5 +1,8 @@
 <div align="center">
 
+  <img src="https://komarev.com/ghpvc/?username=eh&label=ninjas&color=0e75b6&style=flat" alt="Nationals" />
+</p>
+
 ${\color{#e0b577} >⩊<.ᐟ \space}$
 ${\color{#e0b577} color \space looks \space weird \space on \space mobile}$
 
