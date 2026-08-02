@@ -13,5 +13,5 @@ ${\space}$
 
 <img width="468" height="358" alt="iwaoitwalkingicongithub" src="https://github.com/user-attachments/assets/eb7b6c4d-f670-4c75-b456-75f119f27fa5" />
 
-
+${\color{#e0b577}  ࣪˖𓂃۶ৎ˚𓂃 \space ˖ִֶ  \space}$ ${\color{#e0b577}}$
 
