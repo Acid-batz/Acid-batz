@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=eh&label=fistbumps&color=3f0732&style=flat" alt="Nationals" />
+  <img src="https://komarev.com/ghpvc/?username=eh&label=spikes&color=3f0732&style=flat" alt="Nationals" />
 </p>
 
 ${\color{#e0b577} >⩊<.ᐟ \space}$
