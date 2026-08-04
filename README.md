@@ -19,10 +19,9 @@ ${\space}$
 
 ${\color{#e0b577} \space}$
 
-${\color{#3f0732} Thanku \space \space}$ ${\color{#e0b577}}$ [pt-walf-of-fame](https://github.com/pt-walk-of-fame
-)
+${\color{#e0b577}  ࣪˖𓂃۶ৎ˚𓂃 \space ˖ִֶ  \space}$
 
 ${\color{#e0b577} \space}$
 
-${\color{#e0b577}  ࣪˖𓂃۶ৎ˚𓂃 \space ˖ִֶ  \space}$ $
-
+${\color{#3f0732} Thanku \space \space}$ ${\color{#e0b577}}$ [pt-walf-of-fame](https://github.com/pt-walk-of-fame
+)
