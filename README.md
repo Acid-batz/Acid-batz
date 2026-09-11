@@ -11,7 +11,7 @@ ${\color{#e0b577} color \space looks \space weird \space on \space mobile}$
 
 ${\space}$
 
-${\color{#e0b577} Sign \space my \space}$ ${\color{#e0b577}}$ [atabukk۶ৎ](https://kiribaku.atabook.org/)
+${\color{#e0b577} Sign \space my \space}$ ${\color{#e0b577}}$ [atabukk۶ৎ]((https://surfpoosata.atabook.org))
 
 ${\space}$
 
